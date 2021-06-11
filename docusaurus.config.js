@@ -19,7 +19,7 @@ module.exports = {
     "footer": {
       "style": "dark",
       "links": [],
-      "copyright": "Copyright © ${new Date().getFullYear()} Aurigo Software Technologies Inc."
+      "copyright": "Copyright © " .${new Date().getFullYear()}. " Aurigo Software Technologies Inc."
     }
   },
   "presets": [
